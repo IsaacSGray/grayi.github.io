@@ -1,1 +1,17 @@
+body {
+color: blue;
+    }
+    
+h1{
+font: size 26px;
+font-family:'Courier New', Courier, monospace;
+color: green;
+}
 
+img{
+float:right;
+}
+
+p{
+color:aqua;
+}
